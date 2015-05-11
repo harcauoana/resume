@@ -80,7 +80,7 @@ FREELANCER, HOME BASED PROJECTS<br />
 <tr><td style="padding-left:20px; padding-top:20px;">LANGUAGES</td><td style="padding-left:30px;padding-top:20px;">
 <ul>
 <li>English (Advanced)</li>
-<li>Romanian(Native)</li>
+<li>Romanian (Native)</li>
 </ul>
 </td></tr>
 <tr><td style="padding-left:20px">CERTIFICATES & AWARDS</td><td style="padding-left:30px; padding-right:20px">
