@@ -76,8 +76,8 @@
 				<b style="color: #FAEBD7;">Thinking about the job:</b>
 				<ul style="list-style-type: none;color: #FAEBD7;">
 					<li style="padding-left: 6px">
-						Let's start working together! <br />
-						Let's obtain from this job reciprocal benefits for me and for company!
+					    Obtaining from this job reciprocal benefits for me and for you will be the best approach that will let me say "Let's start working together!"
+						
 					</li>
 				</ul>
 				<b style="color: #FAEBD7;">Professional experience:</b>
